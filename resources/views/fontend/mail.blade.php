@@ -1,0 +1,2 @@
+Chào {{ $name }} chúng tôi đã nhận được thông tin liên hệ của bạn và sẽ sớm liên hệ lại cho bạn.Cảm ơn bạn đã quan tâm đến website của chúng tôi.
+<br>Mọi thông tin liên hệ xin gửi tới <br>Email: mailwork0306@gmail.com Số điện thoại: 0989735559
